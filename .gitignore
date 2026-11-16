@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+airbnb_price.csv
+airbnb_room_type.xlsx
+airbnb_last_review.tsv
